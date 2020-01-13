@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Bulgarian Kotlin Usergroup</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://bg-kug.github.io/"/>
+  <updated>2020-01-13T21:57:08.798Z</updated>
+  <id>https://bg-kug.github.io/</id>
+  
+  <author>
+    <name>bg-kug</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Bulgaria!</title>
+    <link href="https://bg-kug.github.io/2019/03/11/hello-bulgaria/"/>
+    <id>https://bg-kug.github.io/2019/03/11/hello-bulgaria/</id>
+    <published>2019-03-10T22:00:00.000Z</published>
+    <updated>2020-01-13T21:57:08.798Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/images/kotlin_wide_logo.jpg&quot; alt&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://kotlinlang.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Kotlin&lt;/a&gt; is an
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
