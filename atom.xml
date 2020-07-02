@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://bg-kug.github.io/"/>
-  <updated>2020-01-13T21:57:08.798Z</updated>
+  <updated>2020-07-02T08:00:37.447Z</updated>
   <id>https://bg-kug.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Practical Concurrency (hands-on)</title>
+    <link href="https://bg-kug.github.io/2020/07/02/Practical-Concurrency-hands-on/"/>
+    <id>https://bg-kug.github.io/2020/07/02/Practical-Concurrency-hands-on/</id>
+    <published>2020-07-02T06:37:36.000Z</published>
+    <updated>2020-07-02T08:00:37.447Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Заповядайте на 2ри юли от 19:00!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.meetup.com/GDG-Sofia/events/271270660/&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="event" scheme="https://bg-kug.github.io/tags/event/"/>
+    
+      <category term="hands-on" scheme="https://bg-kug.github.io/tags/hands-on/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello Bulgaria!</title>
